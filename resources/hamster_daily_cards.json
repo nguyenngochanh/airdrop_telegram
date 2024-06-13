@@ -1,8 +1,24 @@
-[{
-    "date":"20240610",
-    "cards": ["Shit coins","Influencers","Meme coins"],
-    "cipher":"AIRDROP"
-},
+[
+	{
+        "date":"20240613",
+        "cards": ["IT team","YouTube Gold Button","Product team"],
+        "cipher":"SATOSHI"
+    },
+    {
+        "date":"20240612",
+        "cards": ["Licence Europe","Top 10 Global Ranking","Prediction markets"],
+        "cipher":"SATOSHI"
+    },
+    {
+        "date":"20240611",
+        "cards": ["HamsterTube","HamsterGram","Hamster Kombat merch"],
+        "cipher":"HAMSTER"
+    },
+    {
+        "date":"20240610",
+        "cards": ["Shit coins","Influencers","Meme coins"],
+        "cipher":"AIRDROP"
+    },
     {
         "date":"20240609",
         "cards": ["X","DAO","Trading bots"],
